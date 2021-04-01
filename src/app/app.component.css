@@ -1,0 +1,229 @@
+.Menu {
+  background-color: rgb(240, 240, 240);
+  width: 100%;
+  height: 350px;
+}
+
+.fa-search {
+  margin-left: 500px;
+}
+
+.fa-bell {
+  margin-left: 150px;
+}
+
+.fa-user-circle {
+  margin-left: 100px;
+  position: relative;
+}
+.text {
+  margin-left: -60px;
+  position: absolute;
+  margin-top: 80px;
+}
+
+.sub-menu {
+  margin-top: 20px;
+}
+
+.Carosal-menu {
+  margin-top: -40px;
+}
+.carousel-item {
+  margin-left: -15px;
+}
+.card {
+  margin-right: 80px;
+}
+
+.carousel-item > ul.nav.nav-tabs {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+.carousel-item > ul.nav.nav-tabs > li {
+  float: none;
+  display: table-cell;
+}
+.carousel-item > ul.nav.nav-tabs > li > a {
+  text-align: center;
+}
+.Container {
+  margin-bottom: 20px;
+}
+/* .btn {
+  margin-left: -15px;
+} */
+.btn > i.fa-arrow-right {
+  float: right;
+}
+
+.fa-arrow-circle-up {
+  color: green;
+}
+.fa-arrow-circle-down {
+  color: red;
+}
+.Payment-history-menu {
+  margin-top: 40px;
+  background-color: rgb(241, 237, 237);
+  width: 100%;
+  height: 500px;
+}
+.payment {
+  text-align: center;
+}
+
+.payment > .card {
+  height: 350px;
+  border-radius: 10px;
+}
+
+input {
+  width: 80%;
+  padding-left: 35px;
+  color: rgb(127, 127, 214);
+  margin-top: 20px;
+}
+
+.form-group {
+  margin-top: 80px;
+}
+.fa-flag {
+  margin-top: -20px;
+}
+.form-group {
+  position: relative;
+  color: rgb(201, 201, 211);
+}
+
+.form-group .fa-flag {
+  position: absolute;
+  left: 15px;
+  top: 50px;
+  color: rgb(127, 127, 214);
+}
+
+.form-group .fa-arrow-right {
+  position: absolute;
+  left: 670px;
+  top: 30px;
+  color: rgb(127, 127, 214);
+}
+
+.form-group > a {
+  float: right;
+  margin-top: -30px;
+}
+.form-group {
+  position: relative;
+  color: rgb(201, 201, 211);
+}
+
+.form-group .fa-info-circle {
+  position: absolute;
+  left: 750px;
+  top: 25px;
+  color: rgb(127, 127, 214);
+}
+
+.sub-menu {
+  position: relative;
+}
+
+.sub-menu .fa-info-circle {
+  position: absolute;
+  left: 800px;
+  top: 60px;
+  color: rgb(127, 127, 214);
+}
+
+.form-group1 {
+  position: relative;
+  color: rgb(201, 201, 211);
+}
+
+.form-group1 .fa-flag {
+  position: absolute;
+  left: 15px;
+  top: 50px;
+  color: rgb(127, 127, 214);
+}
+
+.form-group1 .fa-arrow-right {
+  position: absolute;
+  left: 670px;
+  top: 30px;
+  color: rgb(127, 127, 214);
+}
+
+.form-group1 > a {
+  float: right;
+  margin-top: -30px;
+}
+.form-group1 {
+  position: relative;
+  color: rgb(201, 201, 211);
+}
+
+.form-group1 .fa-info-circle {
+  position: absolute;
+  left: 750px;
+  top: 25px;
+  color: rgb(127, 127, 214);
+}
+
+.form-group2 {
+  margin-top: 20px;
+  position: relative;
+  color: rgb(201, 201, 211);
+}
+
+.form-group2 .fa-flag {
+  position: absolute;
+  left: 15px;
+  top: 50px;
+  color: rgb(127, 127, 214);
+}
+
+.form-group2 .fa-arrow-right {
+  position: absolute;
+  left: 670px;
+  top: 30px;
+  color: rgb(127, 127, 214);
+}
+
+.form-group2 > a {
+  float: right;
+  margin-top: -30px;
+}
+.form-group2 {
+  position: relative;
+  color: rgb(201, 201, 211);
+}
+
+.form-group2 .fa-info-circle {
+  position: absolute;
+  left: 750px;
+  top: 25px;
+  color: rgb(127, 127, 214);
+}
+
+.menu1 {
+  margin-top: 10px;
+  color: darkblue;
+  margin-left: 30px;
+  display: block;
+}
+
+#element {
+  float: left;
+  margin-left: 180px;
+}
+
+.nav-link {
+  margin-left: -250px;
+}
+.nav-link > .fa-caret-down {
+  float: right;
+}
